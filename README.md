@@ -1,4 +1,4 @@
-# visit_places
+# Visit Places
 
 A new Flutter project.
 
