@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 
-const GOOGLE_API_KEY = "AIzaSyCeVfYGvLi_1OxaksyI4CRaLDHXeE3Bm3A";
+const GOOGLE_API_KEY = "YOUR GOODLE MAP API KEY HERE";
 
 class Location {
 
